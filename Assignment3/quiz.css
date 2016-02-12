@@ -1,0 +1,18 @@
+body{
+
+  font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+  width: 750px;
+  margin: 0 auto;
+  background-color:#BB84EE;
+  text-align: center;
+  font-size: 30px;
+  font-style:normal;
+  font-weight: bold;
+
+}
+
+#container {
+  background-color: #fff;
+  border: 5px solid #000;
+  padding-top: 30px;
+}
